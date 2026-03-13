@@ -15,7 +15,7 @@ namespace praktikum4_command_query_ado_net
             InitializeComponent();
         }
 
-        // Fungsi bantu untuk mendefinisikan string koneksi ke laptop kamu
+        // Fungsi koneksi ke database
         private void Koneksi()
         {
             // Data Source sesuai LAPTOP-D3717QUD\USERHAFFI
