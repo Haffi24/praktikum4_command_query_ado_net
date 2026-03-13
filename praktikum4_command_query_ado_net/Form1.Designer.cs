@@ -74,12 +74,13 @@
             // 
             // btnUpdate
             // 
+            this.btnUpdate.BackColor = System.Drawing.SystemColors.Info;
             this.btnUpdate.Location = new System.Drawing.Point(327, 276);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(75, 23);
             this.btnUpdate.TabIndex = 3;
             this.btnUpdate.Text = "Update";
-            this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // label1
