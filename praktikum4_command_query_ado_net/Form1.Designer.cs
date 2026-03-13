@@ -53,12 +53,13 @@
             // 
             // btnHitungMhs
             // 
+            this.btnHitungMhs.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btnHitungMhs.Location = new System.Drawing.Point(445, 276);
             this.btnHitungMhs.Name = "btnHitungMhs";
             this.btnHitungMhs.Size = new System.Drawing.Size(75, 23);
             this.btnHitungMhs.TabIndex = 1;
             this.btnHitungMhs.Text = "Hitung Mhs";
-            this.btnHitungMhs.UseVisualStyleBackColor = true;
+            this.btnHitungMhs.UseVisualStyleBackColor = false;
             this.btnHitungMhs.Click += new System.EventHandler(this.btnHitungMhs_Click);
             // 
             // btnHitungMK
