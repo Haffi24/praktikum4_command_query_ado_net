@@ -103,12 +103,13 @@
             // 
             // btnLatihan1
             // 
+            this.btnLatihan1.BackColor = System.Drawing.SystemColors.ControlDark;
             this.btnLatihan1.Location = new System.Drawing.Point(404, 369);
             this.btnLatihan1.Name = "btnLatihan1";
             this.btnLatihan1.Size = new System.Drawing.Size(116, 23);
             this.btnLatihan1.TabIndex = 6;
             this.btnLatihan1.Text = "Hitung Dosen";
-            this.btnLatihan1.UseVisualStyleBackColor = true;
+            this.btnLatihan1.UseVisualStyleBackColor = false;
             this.btnLatihan1.Click += new System.EventHandler(this.btnLatihan1_Click);
             // 
             // btnLatihan2
