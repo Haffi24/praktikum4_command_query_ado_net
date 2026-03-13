@@ -63,12 +63,13 @@
             // 
             // btnHitungMK
             // 
+            this.btnHitungMK.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnHitungMK.Location = new System.Drawing.Point(216, 276);
             this.btnHitungMK.Name = "btnHitungMK";
             this.btnHitungMK.Size = new System.Drawing.Size(75, 23);
             this.btnHitungMK.TabIndex = 2;
             this.btnHitungMK.Text = "Hitung Mk";
-            this.btnHitungMK.UseVisualStyleBackColor = true;
+            this.btnHitungMK.UseVisualStyleBackColor = false;
             this.btnHitungMK.Click += new System.EventHandler(this.btnHitungMK_Click);
             // 
             // btnUpdate
