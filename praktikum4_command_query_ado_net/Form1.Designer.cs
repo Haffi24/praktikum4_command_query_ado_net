@@ -114,12 +114,13 @@
             // 
             // btnLatihan2
             // 
+            this.btnLatihan2.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnLatihan2.Location = new System.Drawing.Point(545, 369);
             this.btnLatihan2.Name = "btnLatihan2";
             this.btnLatihan2.Size = new System.Drawing.Size(75, 23);
             this.btnLatihan2.TabIndex = 7;
             this.btnLatihan2.Text = "Update SKS";
-            this.btnLatihan2.UseVisualStyleBackColor = true;
+            this.btnLatihan2.UseVisualStyleBackColor = false;
             this.btnLatihan2.Click += new System.EventHandler(this.btnLatihan2_Click);
             // 
             // btnLatihan3
