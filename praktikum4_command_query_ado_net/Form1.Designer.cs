@@ -125,12 +125,13 @@
             // 
             // btnLatihan3
             // 
+            this.btnLatihan3.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnLatihan3.Location = new System.Drawing.Point(648, 369);
             this.btnLatihan3.Name = "btnLatihan3";
             this.btnLatihan3.Size = new System.Drawing.Size(75, 23);
             this.btnLatihan3.TabIndex = 8;
             this.btnLatihan3.Text = "Insert Prodi";
-            this.btnLatihan3.UseVisualStyleBackColor = true;
+            this.btnLatihan3.UseVisualStyleBackColor = false;
             this.btnLatihan3.Click += new System.EventHandler(this.btnLatihan3_Click);
             // 
             // Form1
