@@ -142,5 +142,15 @@ namespace praktikum4_command_query_ado_net
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Hasil_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
