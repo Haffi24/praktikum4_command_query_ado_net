@@ -96,6 +96,7 @@
             // 
             // txtHasil
             // 
+            this.txtHasil.BackColor = System.Drawing.SystemColors.Info;
             this.txtHasil.Location = new System.Drawing.Point(230, 177);
             this.txtHasil.Name = "txtHasil";
             this.txtHasil.Size = new System.Drawing.Size(290, 20);
