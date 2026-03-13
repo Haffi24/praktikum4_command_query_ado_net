@@ -99,7 +99,7 @@
             this.txtHasil.BackColor = System.Drawing.SystemColors.Info;
             this.txtHasil.Location = new System.Drawing.Point(230, 177);
             this.txtHasil.Name = "txtHasil";
-            this.txtHasil.Size = new System.Drawing.Size(290, 20);
+            this.txtHasil.Size = new System.Drawing.Size(439, 20);
             this.txtHasil.TabIndex = 5;
             // 
             // btnLatihan1
