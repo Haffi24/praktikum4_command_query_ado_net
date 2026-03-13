@@ -141,9 +141,10 @@
             // Hasil
             // 
             this.Hasil.AutoSize = true;
-            this.Hasil.Location = new System.Drawing.Point(175, 180);
+            this.Hasil.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Hasil.Location = new System.Drawing.Point(130, 171);
             this.Hasil.Name = "Hasil";
-            this.Hasil.Size = new System.Drawing.Size(30, 13);
+            this.Hasil.Size = new System.Drawing.Size(65, 25);
             this.Hasil.TabIndex = 9;
             this.Hasil.Text = "Hasil";
             this.Hasil.Click += new System.EventHandler(this.Hasil_Click);
